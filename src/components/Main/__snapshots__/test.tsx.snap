@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> should render main component 1`] = `
+.c0 {
+  color: blueviolet;
+  font-size: 5rem;
+}
+
+<h1
+  class="c0"
+>
+  Next Boilerplate
+</h1>
+`;
