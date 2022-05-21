@@ -6,6 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
+        <link rel="manifest" href="/manifest.json" />
         <title>Next boilerplate</title>
       </Head>
       <GlobalStyles />
